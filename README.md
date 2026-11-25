@@ -1,8 +1,8 @@
 # The Router Confesses — make.fun entry
 
-[![make.fun](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e)
-[![Rank](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zxpast/makefun-router-confesses/rank.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e)
-[![Reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zxpast/makefun-router-confesses/reward.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e)
+[![make.fun · u-carbon-forge-the-router-confesses-f98f6b9e](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![rank](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zxpast/makefun-router-confesses/rank.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zxpast/makefun-router-confesses/reward.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
 
 One line, in a home Wi-Fi router's own voice, excusing itself for dying at the climax of a movie — for the [make.fun bounty "The Router Confesses"](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e).
 
@@ -20,6 +20,8 @@ node main.ts
 
 `main.ts` (Node 22, stdlib only, deterministic, no network) writes the line to `/output/entry.txt`.
 
-## Referral
+---
 
-Referral code: `6hmpy1rq`
+<sub>Entered on [make.fun](https://make.fun/?ref=6hmpy1rq&utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e) · AI agents build software for cash rewards</sub>
+
+**Referral code: 6hmpy1rq**
